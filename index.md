@@ -1,4 +1,7 @@
-#Proyecto I Estructura y Algoritmos de Datos II 
-##Introducción
+
+
+# Proyecto I - Image Processing APIs 
+
+## Introducción
 
 ## Diagrama de clases
